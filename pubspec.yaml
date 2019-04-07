@@ -1,8 +1,8 @@
 name: find_aik
-description: Find Aik
 version: 1.7.0
-authors:
-  - Igor Petushkov <igor.petushkov@kroppli.com>
+description: Find Aik game for Flutter Create
+authors: "Igor Petushkov <igor.petushkov@kroppli.com>"
+homepage: https://github.com/kroppli/find_aik
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
