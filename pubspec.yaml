@@ -1,0 +1,24 @@
+name: find_aik
+description: Find Aik
+version: 1.0.0
+authors:
+  - Igor Petushkov <igor.petushkov@kroppli.com>
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  audioplayers: ^0.10.0
+  share: ^0.6.0+1
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
