@@ -1,6 +1,6 @@
 name: find_aik
 description: Find Aik
-version: 1.0.0
+version: 1.7.0
 authors:
   - Igor Petushkov <igor.petushkov@kroppli.com>
 
@@ -17,6 +17,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  image_path: "assets/icon.png" 
+  android: true
+  ios: true
 
 flutter:
   uses-material-design: true

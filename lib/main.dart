@@ -18,7 +18,7 @@ main() async {
     json.decode(jn).forEach((_) => W[_['type']] = _);
     C = W['_'];
     W.remove('_');
-    // A ??= await AudioCache().loop(C['mp3']);
+    A ??= await AudioCache().loop(C['mp3']);
   }
   runApp(App());
   if (G && T == null)
