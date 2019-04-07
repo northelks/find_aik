@@ -31,7 +31,7 @@ ln - length
 sc - score / time of the game  
 gr - gradient  
 
-Music: Electric Strut by Rick Dickert composed/provided by freesoundtrackmusic.com [https://www.freesoundtrackmusic.com]  
+Music: Electric Strut by Rick Dickert composed/provided by https://www.freesoundtrackmusic.com
 Images: https://www.freepik.com/free-vector/cute-dog-breeds_803197.htm
 
 (c) Igor Petushkov, 2019

@@ -11,15 +11,14 @@ var T, A, W = {}, C = {}, G = false, tM = false, bP = false, sTF = sT();
 sT() => DateTime.now().millisecondsSinceEpoch;
 ln(x, y) => sqrt(x * x + y * y);
 sc() => ((sT() - sTF) / 1000).toStringAsFixed(1);
-gr(a, List<double> b) => LinearGradient(colors: a, stops: b);
 
 main() async {
   if (W.isEmpty) {
-    var jn = await rootBundle.loadString('assets/${C['ch'] ?? 7}.json');
+    var jn = await rootBundle.loadString('assets/${C['ch'] ?? 1}.json');
     json.decode(jn).forEach((_) => W[_['type']] = _);
     C = W['_'];
     W.remove('_');
-    A ??= await AudioCache().loop(C['mp3']);
+    // A ??= await AudioCache().loop(C['mp3']);
   }
   runApp(App());
   if (G && T == null)
@@ -85,8 +84,10 @@ w() {
     var obj = Container(
       decoration: BoxDecoration(
         shape: BoxShape.circle,
-        gradient: gr([Color(v['grad1c']), Color(v['grad2c'])],
-            [v['grad1s'], v['grad2s']]),
+        gradient: LinearGradient(
+          colors: [Color(v['grad1c']), Color(v['grad2c'])],
+          stops: [v['grad1s'], v['grad2s']],
+        ),
         boxShadow: bs,
       ),
       transform: Matrix4.identity()
