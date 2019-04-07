@@ -1,5 +1,10 @@
 # Find Aik
 
+![frame0](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame0.png)
+![frame1](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame1.png)
+![frame2](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame2.png)
+![frame3](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame3.png)
+
 Hello!  
 
 Here is my small game Find Aik for #FlutterCreate with 4,894 bytes!  
@@ -14,11 +19,6 @@ You can use long press to share the game with your friends.
 Have a fun to play :)
 
 <sub><sup>[Hint] There is one hidden hack to get immortality: you need to fly near the planet, but not fly into it. The torsion of the ship will begin and in this condition the enemy ship will not be able to hit you.</sup></sub>
-
-![frame0](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame0.png)
-![frame1](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame1.png)
-![frame2](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame2.png)
-![frame3](https://raw.githubusercontent.com/kroppli/find_aik/master/assets/frame3.png)
 
 The application is designed for Android platform only.
 
