@@ -4,6 +4,8 @@ Hello!
 
 Here is my small game Find Aik for #FlutterCreate with 4,894 bytes!  
 
+https://play.google.com/store/apps/details?id=com.kroppli.find_aik
+
 The game has 7 levels.
 Each level is one planet with a custom color. You need to pick up the planet's energy sources around planets.
 To pick energy source you need to fly through it. To visit/return a planet just fly to/into it.
