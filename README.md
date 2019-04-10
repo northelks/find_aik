@@ -6,8 +6,10 @@ Here is my small game Find Aik for #FlutterCreate with 4,894 bytes!
 
 https://play.google.com/store/apps/details?id=com.kroppli.find_aik
 
-![](https://github.com/kroppli/find_aik/blob/master/find_aik_demo.gif)
 [Video Demo (webm)](https://raw.githubusercontent.com/kroppli/find_aik/master/find_aik.webm)
+<img src="https://github.com/kroppli/find_aik/raw/master/find_aik_demo.gif" width="324" height="576">
+
+
 
 The game has 7 levels.
 Each level is one planet with a custom color. You need to pick up the planet's energy sources around planets.
