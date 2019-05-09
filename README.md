@@ -8,7 +8,7 @@ Entered the top 30 winners! https://medium.com/flutter-io/the-flutter-create-win
 
 On the mobile! https://play.google.com/store/apps/details?id=com.kroppli.find_aik  
 On the web! https://aik.plugfox.ru (use Chrome)  
-On the desktop, Windows! https://github.com/kroppli/find_aik/releases/download/v1.7/find_aik_win.zip (20.5Mb)
+On the desktop! https://github.com/kroppli/find_aik/releases/download/v1.7/find_aik_win.zip (Win, 20.5Mb)
 
 [Video Demo (webm, 47.8 Mb)](https://raw.githubusercontent.com/kroppli/find_aik/master/find_aik_demo.webm)  
 
