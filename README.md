@@ -6,7 +6,7 @@ Here is my small game Find Aik for #FlutterCreate with 4,894 bytes!
 
 https://play.google.com/store/apps/details?id=com.kroppli.find_aik
 
-On the web! https://aik.plugfox.ru/ (use Chrome)
+On the web! https://aik.plugfox.ru (use Chrome)
 
 [Video Demo (webm, 47.8 Mb)](https://raw.githubusercontent.com/kroppli/find_aik/master/find_aik_demo.webm)  
 
