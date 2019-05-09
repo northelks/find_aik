@@ -6,7 +6,7 @@ Here is my small game Find Aik for #FlutterCreate with 4,894 bytes!
 Entered the top 30 winners! https://medium.com/flutter-io/the-flutter-create-winners-are-40980f2d20b3  
 
 
-On the mobile! https://play.google.com/store/apps/details?id=com.kroppli.find_aik
+On the mobile! https://play.google.com/store/apps/details?id=com.kroppli.find_aik  
 On the web! https://aik.plugfox.ru (use Chrome)  
 On the desktop, Windows! https://github.com/kroppli/find_aik/releases/download/v1.7/find_aik_win.zip (20.5Mb)
 
